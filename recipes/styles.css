@@ -1,0 +1,39 @@
+body {
+  background-color: azure;
+}
+
+.heading {
+  color: rgb(184, 42, 23);
+  font-size: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+  font-size: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  display: inline;
+}
+
+ul li {
+  list-style: square;
+  line-height: 60px;
+}
+
+ul li a {
+  text-decoration: none;
+  line-height: 3px;
+  color: crimson;
+}
+
+ul li a:hover {
+  color: darkviolet;
+}
